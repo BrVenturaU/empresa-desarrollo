@@ -7,6 +7,7 @@
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -52,6 +53,26 @@
                                 Ser una empresa de carácter original en la innovación constante, reconocida en industria tecnológica por 
                                 el talento de quienes conforma nuestra empresa y la excelencia de nuestros servicios.  
                             </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <asp:Image ID="Image11" Width="100%" Height="100%" runat="server" ImageUrl="~/Resources/bg_valores.png" />
+                <div class="container">
+                    <div class="carousel-caption text-left card bg-dark">
+                        <div class="card-body">
+                            <h1>Valores</h1>
+                            <ul>
+                                <li>Trabajadores.</li>
+                                <li>Nos gusta retarnos.</li>
+                                <li>Compromiso.</li>
+                                <li>Honestidad.</li>
+                                <li>Puntualidad.</li>
+                                <li>Esfuerzo.</li>
+                                <li>Motivadores e innovadores.</li>
+                                <li>Responsabilidad.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>

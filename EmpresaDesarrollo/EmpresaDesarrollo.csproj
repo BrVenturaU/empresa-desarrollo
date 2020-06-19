@@ -150,6 +150,7 @@
     <None Include="Resources\bg_vision.jpg" />
     <None Include="Resources\imgMe.jpeg" />
     <None Include="Resources\Perfil.jpeg" />
+    <None Include="Resources\bg_valores.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
